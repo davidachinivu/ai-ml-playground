@@ -1,6 +1,6 @@
 # AI/ML Playground
 
-A comprehensive exploration of modern machine learning and deep learning architectures. This repository showcases hands-on implementations spanning computer vision, natural language processing, generative models, and sequential analysis—demonstrating practical application of complex AI concepts across diverse domains.
+A hands-on collection of AI and machine learning experiments, covering everything from image classification and sequence modeling to generative models and agent-style workflows. This repository is all about exploring ideas, building practical examples, and learning through real implementations.
 
 ## Folder Structure
 
