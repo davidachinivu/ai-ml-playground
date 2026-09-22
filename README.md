@@ -31,7 +31,12 @@ Probabilistic models for synthetic data generation and representation learning.
 
 ### Clustering
 Unsupervised learning algorithms for pattern discovery and data segmentation.
-- **S8_Clustering_Techniques_AA.ipynb** - Comparative analysis of centroid-based vs density-based clustering methods
+- **Clustering_Techniques_AA.ipynb** - Comparative analysis of centroid-based vs density-based clustering methods
+- **Mall_Customers_Clustering.ipynb** - Customer segmentation using K-Means clustering
+
+### Classification
+Supervised learning experiments for identifying patterns and predicting categorical outcomes.
+- **Credit_Card_Fraud_Detection (1).ipynb** - Credit card fraud detection using logistic regression and classification metrics
 
 ### AI_Agents
 Agentic workflows combining language models with structured reasoning.
